@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/rewritten-function", "destination": "/api/rewrite" }
+   ]
+}
